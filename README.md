@@ -14,4 +14,6 @@
 
 ## 📊 GitHub Stats
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazjanat&theme=github)
+![My Trophies](https://github-profile-trophy.vercel.app/?username=almazjanat&theme=radial&no-frame=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazjanat&theme=react-dark)
+![Total Commits](https://img.shields.io/github/commits-since/almazjanat/almazjanat/0.0.0?label=Total%20Commits&style=flat-square&color=brightgreen)
