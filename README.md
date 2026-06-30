@@ -14,13 +14,12 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="./profile-summary-card-output/frost/0-profile-details.svg" width="400px"></td>
-    <td><img src="./profile-summary-card-output/frost/1-repos-per-language.svg" width="400px"></td>
-  </tr>
-  <tr>
-    <td><img src="./profile-summary-card-output/frost/2-most-commit-language.svg" width="400px"></td>
-    <td><img src="./profile-summary-card-output/frost/3-stats.svg" width="400px"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="48%" alt="Profile Details" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" width="48%" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="48%" alt="Most Commit Language" />
+  <img src="./profile-summary-card-output/default/3-stats.svg" width="48%" alt="Stats" />
+</p>
