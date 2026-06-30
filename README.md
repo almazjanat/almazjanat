@@ -14,12 +14,36 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="48%" alt="Profile Details" />
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" width="48%" alt="Repos per Language" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/default/2-most-commit-language.svg" width="48%" alt="Most Commit Language" />
-  <img src="./profile-summary-card-output/default/3-stats.svg" width="48%" alt="Stats" />
-</p>
+<table border="0">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/almazjanat/almazjanat/main/profile-summary-card-output/bear/0-profile-details.svg" width="100%" alt="Profile Details" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/almazjanat/almazjanat/main/profile-summary-card-output/bear/1-repos-per-language.svg" width="100%" alt="Repos per Language" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/almazjanat/almazjanat/main/profile-summary-card-output/bear/2-most-commit-language.svg" width="100%" alt="Most Commit Language" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/almazjanat/almazjanat/main/profile-summary-card-output/bear/3-stats.svg" width="100%" alt="Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://raw.githubusercontent.com/almazjanat/almazjanat/main/profile-summary-card-output/bear/4-productive-time.svg" width="100%" alt="Productive Time" />
+      </a>
+    </td>
+  </tr>
+</table>
