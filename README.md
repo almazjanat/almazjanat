@@ -14,6 +14,13 @@
 
 ## 📊 GitHub Stats
 
-![My Trophies](https://github-profile-trophy.vercel.app/?username=almazjanat&theme=radial&no-frame=false)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazjanat&theme=react-dark)
-![Total Commits](https://img.shields.io/github/commits-since/almazjanat/almazjanat/0.0.0?label=Total%20Commits&style=flat-square&color=brightgreen)
+<table>
+  <tr>
+    <td><img src="./profile-summary-card-output/frost/0-profile-details.svg" width="400px"></td>
+    <td><img src="./profile-summary-card-output/frost/1-repos-per-language.svg" width="400px"></td>
+  </tr>
+  <tr>
+    <td><img src="./profile-summary-card-output/frost/2-most-commit-language.svg" width="400px"></td>
+    <td><img src="./profile-summary-card-output/frost/3-stats.svg" width="400px"></td>
+  </tr>
+</table>
