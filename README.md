@@ -14,4 +14,4 @@
 
 ## 📊 GitHub Stats
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almazjanat&theme=radial)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=almazjanat&theme=github)
