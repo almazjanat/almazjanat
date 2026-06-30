@@ -1,6 +1,6 @@
 # Almaz Zhanat
 
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/almazjanat&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=almazjanat&color=brightgreen&style=flat-square&label=Profile+Views)
 
 > Fullstack Engineer — 22 year, developer from Kazakhstan. 
 
