@@ -14,4 +14,4 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almazjanat&layout=compact&theme=radial)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=almazjanat&theme=radial)
